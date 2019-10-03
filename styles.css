@@ -1,0 +1,55 @@
+body{
+	background-image: url(pattern.png);
+	background-repeat: repeat;
+	font-family: Helvetica, sans-serif;
+	color: black;
+	
+}
+footer{
+	color:black;
+	text-align: center;
+	font-size:
+}
+#wrapper{
+	background-color:whitesmoke;
+	width:77%;
+	margin-left:auto;
+	margin-right:auto;
+	padding: 33px;
+	
+}
+.photo{background-image: url(logo.png);
+	
+}
+#frame{
+	background-image: url(cohort.png);
+	height:470px;
+	background-position: center;
+	margin-left:auto;
+	margin-right:auto;
+	
+}	
+header{
+	background-image:linear-gradient(to bottom, #95484b, #af595c, #6f3032)
+	
+}
+dl{
+	
+}
+legend{
+	text-align: center;
+	color:#95484B;
+	background-color:white;
+	background-repeat:no-repeat;
+}
+nav{
+	text-align:center;
+	
+	
+}
+a{
+	background-color:#95484b;
+	border:3px;
+	border-color:white;
+	color:white;
+}
